@@ -59,7 +59,7 @@ Today, I combine that operational experience with SQL Server, Power BI, and Busi
 ## Let's Connect
 
 - 🌐 https://gmdatainsight.com
-- 💼 LinkedIn
+- 💼 www.linkedin.com/in/miroslav-grujic-55567578
 - 📧 gruja96@gmail.com
 
 > **Turning Manufacturing Data into Better Decisions.**
