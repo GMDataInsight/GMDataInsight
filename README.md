@@ -43,7 +43,6 @@ Today, I combine that operational experience with SQL Server, Power BI, and Busi
 
 ## Featured Projects
 
-➡ Manufacturing Operations Performance Analytics
 
 ➡ Automatic Production Line Analytics
 
@@ -51,13 +50,19 @@ Today, I combine that operational experience with SQL Server, Power BI, and Busi
 
 ➡ Quality Performance Analytics
 
-➡ Post-processing Analytics
+➡ Supply Chain Analytics
+
+➡ Operator Performance Analytics
 
 ➡ 5S Performance Analytics
 
+➡ Dimensional Results Analytics
+
 ➡ HR Analytics
 
-➡ Manufacturing Analytics Portfolio
+➡ Post-processing Analytics
+
+➡ Manufacturing Operations Performance Analytics
 
 *(See pinned repositories below.)*
 
