@@ -17,6 +17,7 @@ Today, I combine that operational experience with SQL Server, Power BI, and Busi
 - KPI & OEE Analytics
 - Process Improvement
 - Manufacturing Business Intelligence
+- Custom Power BI visuals tailored to client needs
 
 ---
 
@@ -49,6 +50,12 @@ Today, I combine that operational experience with SQL Server, Power BI, and Busi
 ➡ Manual Production Analytics
 
 ➡ Quality Performance Analytics
+
+➡ Post-processing Analytics
+
+➡ 5S Performance Analytics
+
+➡ HR Analytics
 
 ➡ Manufacturing Analytics Portfolio
 
