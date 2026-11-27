@@ -62,8 +62,6 @@ Today, I combine that operational experience with SQL Server, Power BI, and Busi
 
 ➡ Post-processing Analytics
 
-➡ Manufacturing Operations Performance Analytics
-
 *(See pinned repositories below.)*
 
 ---
